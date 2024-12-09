@@ -13,8 +13,8 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan aplikasi ini:
 
 1. **Clone repositori**
    ```bash
-   git clone https://github.com/harry-awanda/snapgram-simplified.git
-   cd snapgram-simplified
+   git clone https://github.com/harry-awanda/simple-auth-laravel.git
+   cd simple-auth-laravel
    ```
 
 2. **Instal dependensi menggunakan Composer**
